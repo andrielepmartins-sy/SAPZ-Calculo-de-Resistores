@@ -1,5 +1,5 @@
 from tkinter import StringVar, Tk, Canvas, Label, Radiobutton, Frame, Button, ttk
-
+   #---------------- JANELA ---------------- 3
 janela = Tk()
 
 janela.geometry("800x600")
