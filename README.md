@@ -1,4 +1,4 @@
-# SAPZ - Calculadora de Resistor
+# SAPZ - Calculadora de Resistores.
 
 Projeto desenvolvido em Python com Tkinter para calcular valores de resistores a partir do código de cores e também identificar as cores correspondentes a partir do valor da resistência.
 
