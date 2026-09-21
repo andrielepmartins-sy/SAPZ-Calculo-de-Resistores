@@ -36,5 +36,3 @@ Exemplo:
 Vermelho + Vermelho + Laranja + Violeta
 
 22 kΩ ±0,1%
-
-test 4.0
