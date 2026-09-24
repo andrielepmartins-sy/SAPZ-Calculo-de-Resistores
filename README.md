@@ -125,7 +125,7 @@ O projeto utiliza o **Tkinter** para criar a interface gráfica.
 3. Execute o arquivo principal:
 
 ```bash
-python main.py
+py main.py
 ```
 
 No Linux ou macOS, caso necessário:
