@@ -33,6 +33,9 @@ Após clicar em **"Calcular Resistência"**, o sistema apresenta o valor da resi
 
 Exemplo:
 
+
+testt
+
 ```text
 Vermelho + Vermelho + Laranja + Violeta
 
